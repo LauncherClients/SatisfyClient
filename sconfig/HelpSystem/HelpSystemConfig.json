@@ -1,0 +1,290 @@
+[
+    {
+        "index": 1,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/1.png",
+        "labelText": "Home page",
+        "MemSetInfo": ".",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1346933049845350410"
+    },
+    {
+        "index": 2,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/2.png",
+        "labelText": "Quest System",
+        "MemSetInfo": "Hey there, $PNM! Ready for an epic journey?_Complete quests easily, and once finished, the next one unlocks automatically._Explore Life Skills, PvP, hidden treasures, and more-enjoy smooth progression all the way!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349515246070661242"
+    },
+    {
+        "index": 3,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/3.png",
+        "labelText": "* Quest Interface",
+        "MemSetInfo": "Access the Quest GUI by clicking the 4th button on the bottom bar!_Track your current quests, objectives, and rewards._Simply click an NPC's name to auto-track and breeze through your missions.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349515404812353677"
+    },
+    {
+        "index": 4,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/4.png",
+        "labelText": "* Quest Items (Location)",
+        "MemSetInfo": "Some items, like the [Piety Treasure Map], only open in specific spots._Check system chat for location hints._Use the minimap and follow the guiding arrow to claim your hidden treasure!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349515728977662052"
+    },
+    {
+        "index": 5,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/5.png",
+        "labelText": "* Quest Items (Pairs)",
+        "MemSetInfo": "Certain items function only in pairs._Read the quest details or talk to NPCs who might test you before granting the matching piece._Double-click to open (combine) them for special rewards!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349515930845052980"
+    },
+    {
+        "index": 6,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/6.png",
+        "labelText": "* Quest NPCs and Monsters",
+        "MemSetInfo": "Finding specific NPCs or monsters may be tricky._Use the In-Game Database via the bottom-left minimap button to locate items, foes, or quest targets._Keep searching and exploring!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349516544266211358"
+    },
+    {
+        "index": 7,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/7.png",
+        "labelText": "Honor PvP System",
+        "MemSetInfo": "Hey there, $PNM! Feeling bold?_Challenge opponents to 1v1 duels at Argent Bar and earn Honor Points._Match with similar ranks for fair fights._Rise through the PvP ladder and show off your prowess!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349516954238713886"
+    },
+    {
+        "index": 8,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/8.png",
+        "labelText": "Classes & Races",
+        "MemSetInfo": "Hello, $PNM! Welcome to the realm of Satisfy._Your race defines your starting path:_**Carsise**: Swordsman._**Lance**: Swordsman, Hunter, Explorer._**Phyllis**: Herbalist, Hunter, Explorer._**Ami**: Herbalist, Explorer._Choose wisely and embark on your journey!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349517506955575316"
+    },
+    {
+        "index": 9,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/9.png",
+        "labelText": "* Classes & Subclasses:",
+        "MemSetInfo": "Swordsman -> Crusader -> Assassin/Knight_Swordsman -> Champion -> Warrior/Barbarian_Hunter -> Sharpshooter -> Sniper/Huntsman_Herbalist -> Cleric -> Acolyte/Priest_Herbalist -> Seal Master -> Warlock/Witch_Explorer -> Voyager -> Wizard/Buccaneer_Each path offers distinct playstyles and unique abilities!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349517872317206528"
+    },
+    {
+        "index": 10,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/10.png",
+        "labelText": "* Classes Stats & Builds:",
+        "MemSetInfo": "Greetings, $PNM! Your stat choices shape your hero:_**Constitution**: Boosts HP/def._**Agility**: Speeds movement/dodge._**Spirit**: Raises SP/attack (Herbalist/Explorer)._**Accuracy**: Improves hit rate/attack (Hunter)._**Strength**: Maximizes attack/hit rate (Swordsman).",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349518140312125440"
+    },
+    {
+        "index": 11,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/11.png",
+        "labelText": "* Classes And Skills",
+        "MemSetInfo": "Hey $PNM, unleash your true power!_Upon your first advancement, unlock:_**Passive**: Permanent boosts._**Core**: High-damage attacks (Sneak Attack: +50% on mobs, +100% on players)._**Skill Leveling**: Max Lv10, reduces cooldown but boosts SP cost.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349518558861987870"
+    },
+    {
+        "index": 12,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/12.png",
+        "labelText": "Magic Core",
+        "MemSetInfo": "A vital global drop!_Use [Magic Core]s to refine and combine gems, recharge Coral Energy (for Explorers), or craft sockets._Essential for top-tier gear enhancements.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349519831266889768"
+    },
+    {
+        "index": 13,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/13.png",
+        "labelText": "Questmaster's Emblem",
+        "MemSetInfo": "Complete quests to collect [Questmaster's Emblem]s._Exchange x3 for a [Questmaster's Cache] brimming with gear._Your adventure pays off!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349520153523785728"
+    },
+    {
+        "index": 14,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/14.png",
+        "labelText": "Fairy System",
+        "MemSetInfo": "Fairies gain EXP in battles._Keep yours alive to earn Fairy Coins, Elven Signets, and Elven Royal Signets._Exchange them for rations and fruits that bolster fairy growth.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349520306770808912"
+    },
+    {
+        "index": 15,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/15.png",
+        "labelText": "Refiner's Fragments",
+        "MemSetInfo": "Acquire these from recycling old gear or looting Emblem of Chaos in Chaos Argent._Surviving Chaos Argent also yields fragments._To recycle gear, drag it onto the 2nd button from the right in your inventory.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349520469203615944"
+    },
+    {
+        "index": 16,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/16.png",
+        "labelText": "Fragments",
+        "MemSetInfo": "Use Fragments to re-roll gear:_**Lv30-35**: Pioneer's,_**Lv40-45**: Artifex's,_**Lv50-55**: Abyssal's._Exchange them with Refiner's Fragments for stat upgrades!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349520645737812010"
+    },
+    {
+        "index": 17,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/17.png",
+        "labelText": "Life Skill EXP",
+        "MemSetInfo": "Grow your Life Skills by gathering or producing items:_**Mining** ores,_**Fishing** at sea,_**Salvaging** sunken ships,_**Woodcutting** logs,_**Manufacturing/Cooking/Crafting** via Blueprints._Explore and refine your abilities!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349520852248428584"
+    },
+    {
+        "index": 18,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/18.png",
+        "labelText": "Reputation System",
+        "MemSetInfo": "Gain Reputation by leveling Life Skills:_Gathering at Lv3+ (Mining, Fishing, Salvage, Woodcutting), Production at Lv2+ (Manufacturing, Crafting, Cooking)._Spend it on exclusive shop goodies!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349521076564267052"
+    },
+    {
+        "index": 19,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/19.png",
+        "labelText": "Accessories",
+        "MemSetInfo": "Snag belts, rings, bracelets, and vambraces from the Star of Unity._For higher-tier accessories, use crafting and push your skills to new heights!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349521215181815868"
+    },
+    {
+        "index": 20,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/20.png",
+        "labelText": "Equipment",
+        "MemSetInfo": "Upgrade gear with Questmaster's Caches (exchanged via Emblems) or trade Fragments for top-tier items._Check the Database for full details and gear stats.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349521342529146961"
+    },
+    {
+        "index": 21,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/21.png",
+        "labelText": "* Re-Rolling Gear Stats",
+        "MemSetInfo": "Gear quality ranges from 1-10._Use Fragments to guarantee at least Lv5 quality but note that gems and sockets will be removed in the process.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349521461806895175"
+    },
+    {
+        "index": 22,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/22.png",
+        "labelText": "Gems",
+        "MemSetInfo": "Obtain gems from Chaos Argent or Demonic World chests._A notification appears when a gem drops._Collect them to enhance your equipment further!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349521579792531507"
+    },
+    {
+        "index": 23,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/23.png",
+        "labelText": "Earning Money",
+        "MemSetInfo": "Boost finances by selling unwanted loot, forming letters for rewards, surviving Chaos Argent, finishing quests, or trading with other players._Multiple paths to fortune await!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349521697761529967"
+    },
+    {
+        "index": 24,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/24.png",
+        "labelText": "Daily Rewards",
+        "MemSetInfo": "Log in and stay online for 15 minutes to claim free seasonal loot via our Daily Calendar System._Don't miss a day for maximum rewards!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1349521810101764169"
+    },
+    {
+        "index": 25,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/25.png",
+        "labelText": "Life Skill Resources",
+        "MemSetInfo": "You can find logs for woodcutting and ores for mining all around the world. Simply hover over an area on the map, and it will display the level of resources available there._For sea resources, check the two marked areas on the map:_Pink areas -> Salvage resources_Blue areas -> Fishing resources",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1350156582700318851"
+    },
+    {
+        "index": 26,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/26.png",
+        "labelText": "High Priest (Buffs)",
+        "MemSetInfo": "Donate a fixed amount of gold to receive buffs._The higher the donation, the better the stats!",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351133261262491719"
+    },
+    {
+        "index": 27,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/27.png",
+        "labelText": "Ripoff Roo (Misc)",
+        "MemSetInfo": "Ripoff Roo sells a bit of everything-for the 'right' price._Purchase Honor, Heals, Buffs, and Talismans of Protection & Cleansing.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351133436097724480"
+    },
+    {
+        "index": 28,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/28.png",
+        "labelText": "Elix QiVial (Potions)",
+        "MemSetInfo": "Buy basic potions that provide a temporary stat boost._Stronger potions can only be crafted through the Cooking life skill.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351133677224198155"
+    },
+    {
+        "index": 29,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/29.png",
+        "labelText": "Gourmy (Food)",
+        "MemSetInfo": "Offers various foods that provide different buffs._Stronger potions can only be crafted through the Cooking life skill.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351133863673335808"
+    },
+    {
+        "index": 30,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/30.png",
+        "labelText": "Thrifty Thad (HP/SP)",
+        "MemSetInfo": "Find vials and food to replenish HP & SP._Note: These foods do not share cooldowns.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351134022360895498"
+    },
+    {
+        "index": 31,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/31.png",
+        "labelText": "Chaos Argent/Demonic World",
+        "MemSetInfo": "Chaos Argent (CA)_CA Day: For players up to Level 39_CA Night: For players Level 40 and above_Demonic World (DW)_DW1 - Spawns one chest at a time. When destroyed, another chest spawns at a random location (see attached image). After five chests are killed, the boss appears._DW2 - After defeating the DW1 boss, a portal to DW2 spawns randomly. The same chest rules apply—destroy five chests, and the boss appears._Chest Drops (Both Maps):_CA Day & DW1 Chests - Have a chance to drop Tiny Gems_CA Night & DW2 Chests - Have a chance to drop Small Gems",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351180385714966548"
+    },
+    {
+        "index": 32,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/32.png",
+        "labelText": "Teleports",
+        "MemSetInfo": "Teleports are available in every City and Haven (towns)._When you visit a location for the first time, simply talk to the Teleport NPC to unlock that destination._Once unlocked, you can freely teleport to that location anytime.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351636315350761552"
+    },
+    {
+        "index": 33,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/33.png",
+        "labelText": "Weekly Quests",
+        "MemSetInfo": "After completing your Main Quest Chain, you will unlock Weekly Quests._NPC Locations: Found Northwest of Argent Fountain, offering quests in Hunting, Gathering, and Exploring._Reset Timer: Quests reset 7 days after completion.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351636716942921880"
+    },
+    {
+        "index": 34,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/34.png",
+        "labelText": "Cloak Upgrade Benefits",
+        "MemSetInfo": "The Admiral Cloak is obtained upon reaching max level and can be upgraded for additional stats._Each upgrade grants +2 stats to Constitution, Agility, and your main class stat (e.g., Strength for Champion, Spirit for Voyager)._At Level 10, you unlock the ability to reroll one stat for further customization.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1351637343085269133"
+    },
+    {
+        "index": 35,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/35.png",
+        "labelText": "Boss Passive Skills",
+        "MemSetInfo": "Passive Skills that grant powerful stat boosts when defeating bosses!__*10% chance to learn a Passive from Mini Bosses._*20% chance from DW Bosses._*Mini Bosses have 5% to upgrade a skill, DW Bosses 10%._*You can equip ONE per type: Offensive, Defensive, Support._*You can equip ONE per type: Offensive, Defensive, Support._*Reset items available in Rep & Mall Shop.",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1368602030352105729"
+    },
+    {
+        "index": 36,
+        "isGif": 0,
+        "filePath": "texture/ui/forms/helpsystem/36.png",
+        "labelText": "Game Shortcut List",
+        "MemSetInfo": "Effects_* Screenshot Mode: Ctrl+H_* Hide Models: Ctrl+B_* FPS & Ping: Ctrl+P_* Pick Items: Ctrl+A_* Auto Pick: Ctrl+Shift+A__Character Controls_* Sit: Insert_* Char Window: Alt+A_* Skills: Alt+S_* Inventory: Alt+E_* Temp Bag: Alt+D__Map & Navigation_* Hide Mine Map: Alt+M_* World Map: Alt+W_* Radar: Alt+R_* Location: Ctrl+L__UI Windows_* Quests: Alt+Q_* Friends: Alt+F_* Database: Alt+T_* Wardrobe: Alt+V_* Skill Keys: Alt+K_* Settings: ESC",
+        "LinktoGuide": "www.discord.com/channels/1345124009469153412/1361377997914898492"
+    }
+]

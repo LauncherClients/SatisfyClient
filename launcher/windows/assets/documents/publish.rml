@@ -1,0 +1,29 @@
+<rml>
+<head>
+	<title>Publish client manifest</title>
+	<link type="text/rcss" href="../styles/rml.rcss"/>
+	<link type="text/rcss" href="../styles/publish.rcss"/>
+</head>
+<body data-model="publisher">
+	<div id="app">
+		<p id="title">Publish client manifest</p>
+		<p id="blurb">Select the release client folder. The tool writes <span class="mono">{{ output_name }}</span> into that folder so the launcher can fetch it from the same tree players download.</p>
+
+		<p class="label">Client folder</p>
+		<div id="folder-row">
+			<p id="folder-path">{{ folder_path }}</p>
+			<button id="btn-browse" class="btn" data-class-disabled="busy">Browse</button>
+		</div>
+
+		<p class="label">Manifest version</p>
+		<input id="version" type="text" data-value="version"/>
+
+		<p id="status">{{ status }}</p>
+
+		<div id="actions">
+			<button id="btn-generate" class="btn play" data-class-disabled="generate_disabled">Generate</button>
+			<button id="btn-quit" class="btn ghost">Close</button>
+		</div>
+	</div>
+</body>
+</rml>

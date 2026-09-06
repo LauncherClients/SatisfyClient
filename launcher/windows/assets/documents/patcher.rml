@@ -1,0 +1,84 @@
+<rml>
+<head>
+	<title>Satisfy Launcher</title>
+	<link type="text/rcss" href="../styles/rml.rcss"/>
+	<link type="text/rcss" href="../styles/patcher.rcss"/>
+</head>
+<body data-model="patcher">
+	<div id="app">
+		<div id="rail">
+			<img id="brand-logo" data-if="has_logo" data-attr-src="launcher_logo"/>
+			<div id="game-rail" data-for="game : games">
+				<button class="game-tile" data-class-selected="game.selected" data-attr-gameid="game.id">
+					<img class="tile-icon" data-if="game.has_icon" data-attr-src="game.icon"/>
+					<p class="letter" data-if="!game.has_icon">{{ game.letter }}</p>
+				</button>
+			</div>
+		</div>
+
+		<div id="stage">
+			<img id="stage-bg" src="../textures/bg-stfy.jpg"/>
+			<div id="stage-ui">
+				<div id="stage-top">
+					<p id="time-label">{{ time_label }}</p>
+					<p id="server-time">{{ server_time }}</p>
+				</div>
+
+				<div id="banner" data-if="has_banner">{{ launcher_banner }}</div>
+
+				<div id="news-section" data-if="has_news">
+					<div id="news-header">
+						<p class="section-title">{{ ui_news }}</p>
+						<div id="lang-switch">
+							<button id="btn-lang-en" class="lang-btn" data-class-active="lang_en">EN</button>
+							<button id="btn-lang-es" class="lang-btn" data-class-active="lang_es">ES</button>
+							<button id="btn-lang-pt" class="lang-btn" data-class-active="lang_pt">PT</button>
+						</div>
+						<div id="links">
+							<button id="btn-website" class="link-btn" data-if="has_website">
+								<img src="../textures/icon-website.png" class="link-icon"/>
+							</button>
+							<button id="btn-discord" class="link-btn" data-if="has_discord">
+								<img src="../textures/icon-discord.png" class="link-icon"/>
+							</button>
+							<button id="btn-register" class="link-btn" data-if="has_register">
+								<img src="../textures/icon-register.png" class="link-icon"/>
+							</button>
+						</div>
+					</div>
+					<div id="news-list" data-for="item : news">
+						<div class="news-card">
+							<p class="news-title">{{ item.title }}</p>
+							<p class="news-body">{{ item.body }}</p>
+							<div class="news-meta">
+								<button class="read-more" data-if="item.has_link" data-attr-link="item.link">{{ ui_read_more }}</button>
+								<p class="news-date" data-if="item.has_date">{{ item.posted }}</p>
+							</div>
+						</div>
+					</div>
+					<button id="btn-show-more" class="toggle-news" data-if="has_more_news">{{ ui_show_more }}</button>
+				</div>
+
+				<div id="footer">
+					<div id="status-block">
+						<p id="status">{{ status }}</p>
+						<p id="progress-text">{{ progress_text }}</p>
+						<div id="bar-track">
+							<div id="bar-fill" data-attr-style="progress_style"></div>
+						</div>
+						<div id="speed-row">
+							<p id="speed-text">{{ speed_text }}</p>
+							<p id="eta-text">{{ eta_text }}</p>
+						</div>
+					</div>
+					<div id="actions">
+						<button id="btn-primary" class="btn-play" data-class-disabled="primary_disabled">{{ ui_primary }}</button>
+						<button id="btn-repair" class="btn-repair" data-if="can_repair" data-class-disabled="busy">{{ ui_repair }}</button>
+						<p id="copyright">{{ ui_copyright }}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</rml>

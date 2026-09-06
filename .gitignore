@@ -1,0 +1,12 @@
+/log/
+/logs/
+/dumps/
+/user/
+/cache/
+/games/
+lua_err.txt
+*.dmp
+*.part
+install-state.json
+launcher.log
+.DS_Store

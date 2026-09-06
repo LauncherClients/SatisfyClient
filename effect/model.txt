@@ -1,0 +1,23 @@
+[2]
+skeleton=0001.lab
+skin 1=0001000000.lgo
+skin 2=0001000001.lgo
+skin 3=0001000002.lgo
+skin 4=0001000003.lgo
+skin 5=0001000004.lgo
+
+[3]
+skeleton=0002.lab
+skin 1=0002000000.lgo
+skin 2=0002000001.lgo
+skin 3=0002000002.lgo
+skin 4=0002000003.lgo
+skin 5=0002000004.lgo
+
+[31]
+skeleton=0012.lab
+skin 1=0012000000.lgo
+skin 2=
+skin 3=
+skin 4=
+skin 5=

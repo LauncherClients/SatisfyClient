@@ -1,0 +1,99 @@
+{
+  "launcher": {
+    "name": "Satisfy Launcher",
+    "version": "1.0.0",
+    "url": {
+      "windows": "https://raw.githubusercontent.com/LauncherClients/SatisfyClient/main/launcher/windows/SatisfyLauncher.exe"
+    },
+    "manifest": "manifest.json",
+    "provider": {
+      "kind": "github",
+      "owner": "LauncherClients",
+      "repo": "SatisfyClient",
+      "ref": "main",
+      "basePath": "launcher/windows"
+    }
+  },
+  "games": [
+    {
+      "id": "satisfy",
+      "name": "Satisfy",
+      "website": "https://www.satisfy.live",
+      "discord": "https://www.satisfy.live/discord",
+      "register": "https://satisfy.live/account",
+      "serverTimeUrl": "",
+      "timeZone": "UTC+3",
+      "provider": {
+        "kind": "github",
+        "owner": "LauncherClients",
+        "repo": "SatisfyClient",
+        "ref": "main"
+      },
+      "manifest": "manifest.json",
+      "start": {
+        "windows": "system/Game64.exe",
+        "linux": "system/Game64.exe",
+        "macos": "system/Game64.exe"
+      },
+      "startArgs": ["startgame", "ip:game.satisfy.live"],
+      "news": [
+        {
+          "title": {
+            "en": "Flag's End & PvP Maps Revamp!",
+            "es": "Flag's End y Mapas PvP Renovados!",
+            "pt": "Flag's End e Mapas PvP Atualizados!"
+          },
+          "msg": {
+            "en": "New Flag's End PvP map runs in short sessions and offers rewards with buff/debuff mechanics! CA & DW now reward points and random buffs. Full details on Discord!",
+            "es": "Nuevo mapa PvP Flag's End con sesiones cortas, recompensas y buffs aleatorios! CA y DW ahora otorgan puntos y mejoras. Detalles en Discord.",
+            "pt": "Novo mapa PvP Flag's End com sessoes curtas, recompensas e buffs aleatorios! CA e DW agora premiam pontos. Veja tudo no Discord!"
+          },
+          "date": "2025-08-18",
+          "link": "https://discord.com/channels/1345124009469153412/1350136379073630289/1406757265935171614"
+        },
+        {
+          "title": {
+            "en": "Update: New Kits, Boosts & Events!",
+            "es": "Actualizacion: Nuevos Kits, Mejoras y Eventos!",
+            "pt": "Atualizacao: Novos Kits, Melhorias e Eventos!"
+          },
+          "msg": {
+            "en": "Captain Royston joins with Lv35-45 Kits! Dodge boost, stable talismans, and IMP giveaways now live!",
+            "es": "El Capitan Royston llega con Kits de nivel 35-45! Aumento de esquiva, talismanes estables y sorteos activos.",
+            "pt": "Capitao Royston traz Kits de Nivel 35-45! Bonus de esquiva, talismas estaveis e sorteios de IMPs ativos!"
+          },
+          "date": "2025-05-18",
+          "link": "https://discord.com/channels/1345124009469153412/1350136379073630289/1373747986890363083"
+        },
+        {
+          "title": {
+            "en": "New NPC: Scrappy Bill!",
+            "es": "Nuevo NPC: Scrappy Bill!",
+            "pt": "Novo NPC: Scrappy Bill!"
+          },
+          "msg": {
+            "en": "Trade trash items for useful rewards! Scrappy Bill updates his trades every hour. Find him east of Argent Fountain!",
+            "es": "Intercambia objetos basura por recompensas utiles! Scrappy Bill actualiza su tienda cada hora. Esta al este de la Fuente de Argent.",
+            "pt": "Troque itens inuteis por recompensas uteis! Scrappy Bill renova suas trocas a cada hora. Fica a leste da Fonte de Argent."
+          },
+          "date": "2025-05-08",
+          "link": "https://discord.com/channels/1345124009469153412/1350136379073630289/1369818100937261136"
+        },
+        {
+          "title": {
+            "en": "Permanent Weekend Double EXP!",
+            "es": "EXP Doble Permanente los Fines de Semana!",
+            "pt": "EXP Duplo Permanente nos Fins de Semana!"
+          },
+          "msg": {
+            "en": "Every weekend from Friday to Sunday, earn double EXP from Weekly & Daily Quests and defeating mobs!",
+            "es": "Cada fin de semana de viernes a domingo, gana el doble de EXP en misiones diarias/semanales y derrotando monstruos.",
+            "pt": "Todo fim de semana, de sexta a domingo, ganhe EXP em dobro em missoes diarias/semanais e derrotando monstros!"
+          },
+          "date": "2025-04-27",
+          "link": "https://discord.com/channels/1345124009469153412/1346932605098135602/1365065518914207754"
+        }
+      ]
+    }
+  ]
+}
