@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "2026.09.07",
+  "version": "1.0.2",
   "files": [
     {
       "path": "SDL2.dll",
@@ -9,8 +9,8 @@
     },
     {
       "path": "SatisfyLauncher.exe",
-      "size": 3949568,
-      "sha256": "aeddfe111e596ba42b1a27ec2e8a8235134881321073ecfa09ffc89e83baeb3f"
+      "size": 3963392,
+      "sha256": "08e1555b7c3a3ef6bb646439bcdf42521b1a850bfa1969806619f8d37b07a4b2"
     },
     {
       "path": "assets/app-icon.ico",
@@ -19,18 +19,18 @@
     },
     {
       "path": "assets/documents/patcher.rml",
-      "size": 3282,
-      "sha256": "23b5c2281cf2c0cbe302cf1ce8d7f121a3d7d3c27f254c025eb96bf208578bd6"
+      "size": 3405,
+      "sha256": "264041f7adcff6ab4909fd62fda37c5d848bb1187143ef64363f87949a3ffdba"
     },
     {
       "path": "assets/documents/publish.rml",
-      "size": 1490,
-      "sha256": "cd9f0d893b49a1285a6742955df5101f8530baf441da4485bdd16825d5967d4a"
+      "size": 1532,
+      "sha256": "7502ee40ebaa25f4347114687f37a45799ee0ac88f859618fcd73bd1c0b169e5"
     },
     {
       "path": "assets/fonts/LICENSE-Roboto.txt",
-      "size": 141,
-      "sha256": "767ce40cd883b078ccddf06d4f5116e82ac0b0467cd5680c63166f77333d31ad"
+      "size": 144,
+      "sha256": "cf23339f778339457cff9621833150048f3d890d6e8a74b24ed669b3de301449"
     },
     {
       "path": "assets/fonts/LatoLatin-Bold.ttf",
@@ -54,33 +54,33 @@
     },
     {
       "path": "assets/lang/en.json",
-      "size": 1238,
-      "sha256": "56c3203dae4e95815830c9791adf6a82f9cdcaf16dbd278f3514104f591c4df5"
+      "size": 1272,
+      "sha256": "fad205e4bc7500607a81422b37a6e7cb80ff87d11a57ba6bfacf08bf86a663cc"
     },
     {
       "path": "assets/lang/es.json",
-      "size": 1315,
-      "sha256": "5225673113631af5e3571ade66f68c4a733d5f07cd573ed675c05340e45f590f"
+      "size": 1349,
+      "sha256": "ce326f41104899121854ad36697533527c052ffe70e837d293d4376c8b114e7d"
     },
     {
       "path": "assets/lang/pt.json",
-      "size": 1296,
-      "sha256": "2eb37bea45c024c32f32223b502fb54089d355514fd45fc07b8d06a4fa9f6c6d"
+      "size": 1330,
+      "sha256": "e6a323a0c619973d8a7903db61c8f811e97487d7bbb9a485ee014f6d4ad5a074"
     },
     {
       "path": "assets/styles/patcher.rcss",
-      "size": 5672,
-      "sha256": "ca74e2a2a4c6dc847d337e2fe2144cc1aa5734e340ecdb0f89fdfd7fcb655323"
+      "size": 6625,
+      "sha256": "2ad36850f2438dfd6841b60df96f83b8c44c11322392223ab80f0d23172cc846"
     },
     {
       "path": "assets/styles/publish.rcss",
-      "size": 2171,
-      "sha256": "25af2e7acbd601fa4131ddc22333bc2cbf0fa079d21cb362907f0a98e6d3394e"
+      "size": 2330,
+      "sha256": "2041b83d8f8d3a1b114acd6792d3c5f30a8f024e43ff7fc66d5e8be3b5530bed"
     },
     {
       "path": "assets/styles/rml.rcss",
-      "size": 780,
-      "sha256": "69d8f9a3d58d0940627ee28ec6d6cf9a9efc87387628ec924f23202a3245cc25"
+      "size": 860,
+      "sha256": "cd6a4dd290f79b14ad53142cab59c20ce45b8175b05a79435b017230869b806b"
     },
     {
       "path": "assets/textures/app-icon.png",

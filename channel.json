@@ -3,7 +3,7 @@
     "name": "Satisfy Launcher",
     "author": "mothannakh",
     "logo": "textures/brand-logo.png",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": {
       "windows": "https://raw.githubusercontent.com/LauncherClients/SatisfyClient/main/launcher/windows/SatisfyLauncher.exe"
     },
@@ -39,7 +39,10 @@
         "linux": "system/Game64.exe",
         "macos": "system/Game64.exe"
       },
-      "startArgs": ["startgame", "ip:game.satisfy.live"],
+      "startArgs": [
+        "startgame",
+        "ip:game.satisfy.live"
+      ],
       "news": [
         {
           "title": {

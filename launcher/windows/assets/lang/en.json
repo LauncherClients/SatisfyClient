@@ -28,7 +28,7 @@
   "filesNeedDownload": "{0} file(s) need download ({1})",
   "installingClient": "Installing client: {0} file(s) ({1})",
   "installing": "Installing client...",
-  "updatingLauncher": "Updating launcher to {0}...",
+  "updatingLauncher": "Updating launcher to {0}",
   "launcherUpdate": "Launcher update available: {0}",
   "noGameSelected": "No game selected",
   "noStartPath": "No start path for this platform",

@@ -38,7 +38,7 @@
 				<div id="banner" data-if="has_banner">{{ launcher_banner }}</div>
 
 				<div id="news-wrap" data-if="has_news_panel">
-					<div id="news-section">
+					<div id="news-section" data-class-expanded="news_expanded">
 						<div id="news-header">
 							<p class="section-title">{{ ui_news }}</p>
 							<div id="lang-switch">
