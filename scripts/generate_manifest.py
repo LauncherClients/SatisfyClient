@@ -28,6 +28,7 @@ SKIP_FILES = {
     ".DS_Store",
     "lua_err.txt",
     "apply-update.bat",
+    "apply-update.ps1",
     "apply-update.sh",
     "login_accounts.lst",
     "manifest.json",
