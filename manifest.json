@@ -12534,8 +12534,8 @@
     },
     {
       "path": "effect/model.txt",
-      "size": 366,
-      "sha256": "a8311d2837eea5ab31395ab43a5541dda87c19add8ea4fd631dfb8bc59f9a12d"
+      "size": 343,
+      "sha256": "b60cb2e1a26c3c676eceffe5038bd2bff16a8bb1f277516ccd535ab922a6a30b"
     },
     {
       "path": "effect/mosterlight.par",
@@ -52934,18 +52934,18 @@
     },
     {
       "path": "sconfig/Ascaron/config.cfg",
-      "size": 432,
-      "sha256": "22afec20aa8b5b6092a4e6cd3230e65df95ad9c88e509e38230b171af94ebdf8"
+      "size": 411,
+      "sha256": "2cf9bba321da5095ef29fd0b29468e4f3270c046dc568f757bb6ad8265884133"
     },
     {
       "path": "sconfig/ChestPreview/ChestPreviewConfig.cfg",
-      "size": 246,
-      "sha256": "fd8aae6f642ff23672aff769977ae7b00f1e40bbc471d908e3b7d552dc6cc680"
+      "size": 245,
+      "sha256": "b32b995a74de51d7eb96d46b7f3dfd88aca0c25295e62fab2cacdf0588e07669"
     },
     {
       "path": "sconfig/ChestPreview/ChestPreviewConfig.json",
-      "size": 217530,
-      "sha256": "882b0a572e074d17877fb0d593887766515e2a07e90ddd2adf63b264dc1b8f25"
+      "size": 209675,
+      "sha256": "454b43f1fd169e2b5da33a191829cca9bb1401343b9f7a0cffc6fb481c5534bc"
     },
     {
       "path": "sconfig/DataBase/ItemInfoAndMonsters.json",
@@ -52954,18 +52954,18 @@
     },
     {
       "path": "sconfig/Deep Blue/config.cfg",
-      "size": 251,
-      "sha256": "4a8577678ff945c30c4db1782db45a207464b0a449f10c842e95b527ca306f4c"
+      "size": 241,
+      "sha256": "413c416af7024e11b9a23ae8f97b2010e309f59b8969528b64a8ac3a09198991"
     },
     {
       "path": "sconfig/Demonic World 2/config.cfg",
-      "size": 289,
-      "sha256": "c0752d292653c05cfbb3cee80e8c4c1ba9aaa204cc64716715327e52cfd4dd83"
+      "size": 278,
+      "sha256": "f421793c2a1dfa42d81ec2bd51571f09cc64e60e412051e626aa15193f176c43"
     },
     {
       "path": "sconfig/Demonic World/config.cfg",
-      "size": 287,
-      "sha256": "369560a3044c019612e84240fd6bb223d9ada929b07b922205baf8ce4d69da2f"
+      "size": 276,
+      "sha256": "9ec52f270018cb5c75cb67f2617c53ec193450965163e35dede2dc425155753e"
     },
     {
       "path": "sconfig/ExchangerNpc/NpcExchangerData.json",
@@ -52974,53 +52974,53 @@
     },
     {
       "path": "sconfig/HelpSystem/HelpSystemConfig.json",
-      "size": 17330,
-      "sha256": "c576a97250bbc0db3ea9230d628eb650c8c3b03b0c21e5707aba723d131f88ca"
+      "size": 17041,
+      "sha256": "30fa221853be33887f550eda4c32687c6c280804bf3b1b979e7ecace80968f7b"
     },
     {
       "path": "sconfig/Magical Ocean/config.cfg",
-      "size": 237,
-      "sha256": "dcfc5ecf5dbbe53344246aa216dac07388c4e3b03c7fb31602797a13ef75deba"
+      "size": 229,
+      "sha256": "751935ed80daac4385988e66d90534c8c1c15565948637f69d35756c1d049daf"
     },
     {
       "path": "sconfig/translations/translations.json",
-      "size": 282476,
-      "sha256": "55af6ac84c049377275e9059303029431879e6ec7e0e08c2beb5ae8f7fd0c6cc"
+      "size": 276240,
+      "sha256": "5130cd968e7b5078d85001529cae2bec74515e5414457cec0ceab59f7d0f35f3"
     },
     {
       "path": "scripts/kop.cfg",
-      "size": 4886,
-      "sha256": "d8a888bebcb36e00ef31d1555ef59072d31f62177007a53773711813e604e9ad"
+      "size": 4745,
+      "sha256": "8c1ae03075fd7d024ea828ab3532c71c8a281489fa80d8aaa60447be0cb88169"
     },
     {
       "path": "scripts/lua/CameraConf.lua",
-      "size": 1113,
-      "sha256": "a100723a18d67f300651e2d12bc40ba045e35bf99ed31bfdb3d32956829aa43a"
+      "size": 1080,
+      "sha256": "1ba6e1c96885a6d9488cce58de089addeca3fbe765d3f4e3bedda9f55f6b1ee6"
     },
     {
       "path": "scripts/lua/CharacterConf.lua",
-      "size": 3035,
-      "sha256": "0d7b447f062236982a6d5761c5127795d95402d0c99360c01ba5c23887d23dd9"
+      "size": 2936,
+      "sha256": "7e82eca14582d6d706022f997e7a371d0f75ba7610132a78ee8955e4c90c59cb"
     },
     {
       "path": "scripts/lua/GlowEditor.lua",
-      "size": 18134,
-      "sha256": "2d87b9e5bc70793cf4987e04258aa62f97aaf4ed8590f7d1c5ef6fe4e5c075fa"
+      "size": 17797,
+      "sha256": "ff0c77b7edd66a4f45b874b9de47c579f8e9e64666d43635752b15afc230d96d"
     },
     {
       "path": "scripts/lua/editor.lua",
-      "size": 21038,
-      "sha256": "4e325fda7f4fa0dae054422d1ef126a4a4dd1bc9d9292ef6601d3e26280bbf49"
+      "size": 20544,
+      "sha256": "890c4b930f97a4d1f8af462be63cc740110a3e9696a1e1b06733660fde73a657"
     },
     {
       "path": "scripts/lua/filter.lua",
-      "size": 3017,
-      "sha256": "8fb39d730b7d759cb43944158479f86a8cc3e968a4e9f5dedc997b19b0af159c"
+      "size": 2943,
+      "sha256": "24a114f6e61a4a126288c6ee3a49636097ff6525adec7f63dc7c5943cb7c54b4"
     },
     {
       "path": "scripts/lua/font.lua",
-      "size": 1144,
-      "sha256": "180ba84e035b625a9a7c7b37d9c1ed0048b604971b95c12850d310f9d1d98a23"
+      "size": 1124,
+      "sha256": "ea74002e1645299871813ccf2ef3fce963e2fc37552372eb2ed1d7537dc68d50"
     },
     {
       "path": "scripts/lua/forms/Equip.bin",
@@ -53224,63 +53224,63 @@
     },
     {
       "path": "scripts/lua/gui.lua",
-      "size": 25448,
-      "sha256": "f400195324669642e349a9e3bba1d2a8955997e27e0d0276906816fb2431ad54"
+      "size": 24371,
+      "sha256": "2ac4f50218e63c454c6491dcf6e7ad2b26b95b6f23ba61d0207d385efc50d4c4"
     },
     {
       "path": "scripts/lua/mission/mission.lua",
-      "size": 1828,
-      "sha256": "0f36a0e1fffb66049a18b1b1621a343a0838261ece525fe4054614eef5c2a009"
+      "size": 1771,
+      "sha256": "46a7c3bff9d305b38b95d693285e9abc38ca4a00fe87ae1a1ccffe06cc30b8ad"
     },
     {
       "path": "scripts/lua/mission/missioninfo.lua",
-      "size": 2010,
-      "sha256": "42398e0e394bac539f07eade6bfaf9cb9862d288b48f735a97acb64b7ab62f41"
+      "size": 1952,
+      "sha256": "5df41be5a7381024db85ce8b3e00efb4ead5c810d3283dc3d78eecf38dab90e4"
     },
     {
       "path": "scripts/lua/scene.lua",
-      "size": 2699,
-      "sha256": "de792d6d364b608129c722ad738ed78e2deedb2622f99c54434b59f43584017b"
+      "size": 2581,
+      "sha256": "1aa381a5bc6f7448f4da26f2c7d026060359c73892236ee91b48fa86fd695757"
     },
     {
       "path": "scripts/lua/scene/createchascene.lua",
-      "size": 264,
-      "sha256": "7d86761a9b9fb3206736388c01017b32386dffbbad9d440c3b59e992ffb5224d"
+      "size": 255,
+      "sha256": "fef97834e2009ceeff992894bf0cfdc8e538550d55db950a6907cbb280232363"
     },
     {
       "path": "scripts/lua/scene/face.lua",
-      "size": 6940,
-      "sha256": "a3eafcdc0927674906c9d7f540f4302cdc7673b39f054a996b88a5cccba57dde"
+      "size": 6828,
+      "sha256": "8ffe093352df298d93bd5a6b63c2d2c11ad57e658fa742e2d7b206e50f91f758"
     },
     {
       "path": "scripts/lua/scene/loginscene.lua",
-      "size": 269,
-      "sha256": "5aa7e7309d883faa94d92300e9902d1b2de0a32146ae683b3d18e830e10b2f69"
+      "size": 260,
+      "sha256": "b1adb35f1520df8718464f8cc3ca738ee8bcbe46ce512a70d940376b770081ab"
     },
     {
       "path": "scripts/lua/scene/mainscene.lua",
-      "size": 152,
-      "sha256": "ebb5b6c54b72ad9dc46b3ab17278564892553a84156755117338ee483b537833"
+      "size": 148,
+      "sha256": "34f41067a16dd55385c7b72364f62285fb7d3b138a7909101160df57938ad1ad"
     },
     {
       "path": "scripts/lua/scene/previouname.lua",
-      "size": 7053,
-      "sha256": "0dba21e682fec92364a4be408c478dd33781e7ddb6e0368314d056b91a4377b6"
+      "size": 6810,
+      "sha256": "d7f124129782ce4121ecc90266f302613cdbf8bbe989e0ba279e5a24d9d28ccf"
     },
     {
       "path": "scripts/lua/scene/selectchascene.lua",
-      "size": 196,
-      "sha256": "5e65b993135c85af83797de5e4e42f111488243294efc96e2070a60c4e43c069"
+      "size": 190,
+      "sha256": "06ea02c0b5c14813472f4d52f4790e8906c6b7ec8a430896bfddc0da6dd0cef3"
     },
     {
       "path": "scripts/lua/table/scripts.lua",
-      "size": 9301,
-      "sha256": "b6f42a25ab5f2f3fb5c13cc3bada673c816b6a4c5f6259b78b9fd010f3457a63"
+      "size": 8885,
+      "sha256": "6002b4a33803d7e928b24fb26e841e966c20642348541f5f164b633c5a8e5326"
     },
     {
       "path": "scripts/lua/table/stonehint.lua",
-      "size": 7349,
-      "sha256": "3365d32cacd6177b0df54546f8eb5911563d94b46dbd7e6fd2074b0c2d39ad6d"
+      "size": 7005,
+      "sha256": "b152aea4047b3c2e460e97414d390a0d04306702e47f13dad126f93a8003e885"
     },
     {
       "path": "scripts/table/AreaSet.pbt",
@@ -53469,18 +53469,18 @@
     },
     {
       "path": "scripts/txt/HelpInfo.tx",
-      "size": 952,
-      "sha256": "461e48bc48eb6d79ef642630e5156ef49a1f0341a11c178c8a3bc299e9abebb1"
+      "size": 920,
+      "sha256": "b5adfbb47e678b8d341395182aa46297d711d580f13ca8784ec7aa0f1cec2c6c"
     },
     {
       "path": "scripts/txt/StoreHelp.tx",
-      "size": 475,
-      "sha256": "85ec3ed8bd7a0de9153375be40dc1b902a3c2388d0f3365c8b0887c0d3f95b68"
+      "size": 465,
+      "sha256": "7da12f1a73b23e223876ec89518deb31f744a389a39c8f83d4a25e69e8ee407b"
     },
     {
       "path": "scripts/txt/aaa.tx",
-      "size": 1679,
-      "sha256": "bd9fbdf45ac63a702ec41a88258c14c946287974cae8469e302652f495caf2ce"
+      "size": 1604,
+      "sha256": "1532e3997fab276d18411f51b0414e5b316d9cb7c77005947ea4d987f595b52a"
     },
     {
       "path": "scripts/txt/item.lit",
@@ -53489,148 +53489,148 @@
     },
     {
       "path": "scripts/txt/lit.tx",
-      "size": 687,
-      "sha256": "15d6858bb15662f4e70e77bc7413f9e25afe65bb9f4abbc5b93fb7702bdabe8e"
+      "size": 678,
+      "sha256": "b0c413ffd439f535ef71ef2340b884a2b0bf21e722a7f95da6fd0cbc432e3f73"
     },
     {
       "path": "shader/SkyShader.fx",
-      "size": 4386,
-      "sha256": "e3c16f647980ecd33cd47b163a22e49a361571b125fdf99cdeff9958df652576"
+      "size": 4235,
+      "sha256": "a0c3e4abd4af21e7576f29f81bc7f3c88bae0d7983a9cb1945ab258b2f80137f"
     },
     {
       "path": "shader/eff.fx",
-      "size": 6864,
-      "sha256": "5bb5dbfada570058a64524b2f9c3ad8e3276b47b44423594c5dd9035c4a7ec5d"
+      "size": 6529,
+      "sha256": "3ac846e3de1eb83977299b8ffa9008ad9ef98dcdbcca107e422d2b4d47970af8"
     },
     {
       "path": "shader/eff1.vsh",
-      "size": 257,
-      "sha256": "d17ffadc9928371358d0d072d693b8ec14850ba9329eb143f6ffa224dc0d87d4"
+      "size": 241,
+      "sha256": "d5862bda49162c06afd5f4169a364483b9422f2c0e14a31314f574892fd43699"
     },
     {
       "path": "shader/eff2.vsh",
-      "size": 231,
-      "sha256": "300ef0914feb9fb625323195d44a84fd6892c71a8c6bb117916c0feda6041aca"
+      "size": 216,
+      "sha256": "23f7c27a9ad29aa277db7412e7aa5dcddc3e6135e8e9657b603bf4feb23a4a6a"
     },
     {
       "path": "shader/eff3.vsh",
-      "size": 274,
-      "sha256": "cb2eca213b2afa8437ed7fe674a8797cc6516f54f1b1a03e9238dc8ce75e42f1"
+      "size": 257,
+      "sha256": "93bcaab2b0a82f7025c34514be4b2709872c1cf8fee3075010ba72f5ddc879ce"
     },
     {
       "path": "shader/eff4.vsh",
-      "size": 234,
-      "sha256": "43a39a46aab0f3ee2ddc208b8ccaa1066ce18bebfd267aa01912ec4c0e6a388b"
+      "size": 219,
+      "sha256": "7448d5370f483aa07e55224c9ef649fa62d97cd641f52e95d580d85bfac259b8"
     },
     {
       "path": "shader/font.vsh",
-      "size": 238,
-      "sha256": "af18c0995a30a8a2051b350e7954c488930855539feb418ac6245b74f788a7a9"
+      "size": 218,
+      "sha256": "639ebd45b53bbccfa878bd13b574849033fb55a9e27005ed5db720cc3d27880c"
     },
     {
       "path": "shader/minimap.vsh",
-      "size": 228,
-      "sha256": "631a233417a9320bc5491a0ebe3e3d5244c204ba1547f1ae38fb256c10ddf677"
+      "size": 209,
+      "sha256": "0bdc012a895869974750ea104a65b26c7dbac4bb927fd4d701b6c11d9233cd47"
     },
     {
       "path": "shader/pb1u4nt0_ld.vsh",
-      "size": 852,
-      "sha256": "aa0e15c128915825d1bb12ab4633919b306ee25adc20063380830dda89194ae8"
+      "size": 819,
+      "sha256": "2c2baeee097c8d939a37643e261c59c7107da2d94132316c22cd8375ee0c2cba"
     },
     {
       "path": "shader/pb2u4nt0_ld.vsh",
-      "size": 1031,
-      "sha256": "1b085bc9b63439fb98a4a2324fdbccfe0709819493f6ce22a901a385eb65ecea"
+      "size": 993,
+      "sha256": "3e5bc41afe14264b69c4a39d5f768bb5d992996f3a7f4d99ca6dc6edd2fb1684"
     },
     {
       "path": "shader/pb3u4nt0_ld.vsh",
-      "size": 1210,
-      "sha256": "91c2b5795742d526ad22c71815b19a7ff2f4fdc84a4ce6c952d5b59ccc59862d"
+      "size": 1167,
+      "sha256": "5b847ca0cc3277d1b67ce3d90f24432e32e5b6437636f429df44292645396aeb"
     },
     {
       "path": "shader/pu4nt0_ld.vsh",
-      "size": 536,
-      "sha256": "d40ea4725034797e6881959734b98dc39c1d4ff3e76c57b4226221b649197aaf"
+      "size": 513,
+      "sha256": "abeac113d6903fa691f3669a8ab2fba76b7e33494f13806d43d5a7bdcf5ce855"
     },
     {
       "path": "shader/shadeeff.vsh",
-      "size": 317,
-      "sha256": "49590562aeb929013b5756304599dea86eb0866f18693489a6a40191a500ec65"
+      "size": 296,
+      "sha256": "a0b66814f58200ac0e9dcff4e00cc5ddb5fed4e61d9f9e252a9a2195d856e239"
     },
     {
       "path": "shader/skinmesh8_1_tt1.vsh",
-      "size": 1486,
-      "sha256": "b4362fe053baee156e1fefb376f7ac6fd01b4ba77369d0adac6423c079c5ba9e"
+      "size": 1421,
+      "sha256": "ec9dab533b9de22d3cf65afdaa092dd9fc52ed49f61c3bd13fc7a397b3d40a29"
     },
     {
       "path": "shader/skinmesh8_1_tt2.vsh",
-      "size": 1504,
-      "sha256": "f424b22f3c49997f06a3dc4cd966832f853a588fdf5e72ba6adaa036ba376e6c"
+      "size": 1438,
+      "sha256": "11e7b5d633234a9b7ffe355ff762f342a824b7c9e823634ff13b10b920eabf8a"
     },
     {
       "path": "shader/skinmesh8_1_tt3.vsh",
-      "size": 1521,
-      "sha256": "e16271692a8f89f41d3dade89848897a1c587b14f1c3ae5081a4b26d9cb617c6"
+      "size": 1454,
+      "sha256": "0b96fe723db3c54a2501a5167469024b96f6aa8c6d20b4ad451ce89de14632fe"
     },
     {
       "path": "shader/skinmesh8_2_tt1.vsh",
-      "size": 1899,
-      "sha256": "28ba210b1a2a9a87ebef7e07652acb5b220ad2dc41e20e38ab537ada69504c50"
+      "size": 1819,
+      "sha256": "c65d3c1bf966d6ed269a2d2c3677ad03b07272e98e1f2a51db54008b64d32768"
     },
     {
       "path": "shader/skinmesh8_2_tt2.vsh",
-      "size": 1917,
-      "sha256": "76234688ecbe341406c9d748ea232cb7effc92e0715bd660bec278845e0abeaa"
+      "size": 1836,
+      "sha256": "2741256867ead49976fb0cfe3bf43e600e851b5388631b7720337eb361ce49a7"
     },
     {
       "path": "shader/skinmesh8_2_tt3.vsh",
-      "size": 1934,
-      "sha256": "36e35f1ea487e0c17d1e25d6741088a10222d1cdcd1677de0a430abf206d8193"
+      "size": 1852,
+      "sha256": "b9ea4f7816f0429c0daab41b1b60b7f36361ab77d435304f937c1db9d6f62bf0"
     },
     {
       "path": "shader/skysplit_ps.hlsl",
-      "size": 1189,
-      "sha256": "c7fecaa41162c7ddda2f6915702cb9f186438a0ea0017685a5abaca8a4300057"
+      "size": 1158,
+      "sha256": "2e3acf3ccb28288f7fab85bd44681fc94f63c968116cb28b787931be36ab3bfa"
     },
     {
       "path": "shader/vs_pndt0.vsh",
-      "size": 666,
-      "sha256": "51d4182b292a709f96f812848cbfb61c072afe481844b9b82b07e97280406229"
+      "size": 633,
+      "sha256": "352819747aeacc3bb4285d2e29496198665c73ee4ca6dc1d29825d9765844520"
     },
     {
       "path": "shader/vs_pndt0_ld.vsh",
-      "size": 894,
-      "sha256": "cbe975925eae7b2af148c3400df8f2cd5c58a3c4e09c0e45e16b01f7e2cb9484"
+      "size": 851,
+      "sha256": "3f95a6b6b59187ce274bcb056fb11f7138e05ab3bc1b8de0a59ca10aa2e70bfa"
     },
     {
       "path": "shader/vs_pndt0_ld_t0uvmat.vsh",
-      "size": 1054,
-      "sha256": "8a8bdab92ebfdc466df99f614dd0899c1db31f7ac75c4da9ba13fdca9dc0244f"
+      "size": 1006,
+      "sha256": "eddae8a3b97d5a8a7690506f035e60f905390a6a6930810ddd50e1fee7096d55"
     },
     {
       "path": "shader/vs_pndt0_t0uvmat.vsh",
-      "size": 826,
-      "sha256": "8c83d0689f1626a4a8a7ef317966273aca8c88dbade20c45fa7a5940880a3b79"
+      "size": 788,
+      "sha256": "b53ac16fc0843e4b939473867848c6ad949855ec1fa089d6ae0b1cab2cbd290e"
     },
     {
       "path": "shader/vs_pnt0_ld.vsh",
-      "size": 884,
-      "sha256": "8fcab7380d60a9062c9e3816566d8871cc3585c4fc25033fe426c297e76ce84f"
+      "size": 842,
+      "sha256": "b07908fcbf0968e3c5e7d5bac292b477d8bf1a39cb65e2a715a4d4ecbc4164ed"
     },
     {
       "path": "shader/vs_pnt0_ld_t0uvmat.vsh",
-      "size": 1044,
-      "sha256": "f5a80c6820130b6d10b0d7542a50fc64dba7053da1e2ae84126ce1e66d3739da"
+      "size": 997,
+      "sha256": "14c271a0856536524ed8f05af776bd5bfde57d9a0a7614f42d5d76134c30f0f0"
     },
     {
       "path": "shader/vs_pnt0_t0uvmat.vsh",
-      "size": 822,
-      "sha256": "33a89a8dc9088264d7972d80d0defbfced6f72d20324f6532d84015d0911572b"
+      "size": 785,
+      "sha256": "9e4d65ae61c354f9c0176605916a3da0e12b3d82fde80ea1b877a62257940ba7"
     },
     {
       "path": "skin/SkinControl.lua",
-      "size": 3377,
-      "sha256": "461cd345da76ae4f55f87b90b74720d3e9ab6c2cae9bc5f29c31e1e483facb8d"
+      "size": 3309,
+      "sha256": "593618d53ffd1f0bdc373b2c30c679c7e65432c8bad6f42ebded2e85d2e31b02"
     },
     {
       "path": "system/D3DCompiler_43.dll",
@@ -113674,18 +113674,18 @@
     },
     {
       "path": "user/Accounts.cfg",
-      "size": 2,
-      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
     },
     {
       "path": "user/Language.ini",
-      "size": 25,
-      "sha256": "68933421a336d1244a25a74ad9acfbd4c302e0732f1ec5dc50e01465ceec09a3"
+      "size": 23,
+      "sha256": "02075cae3be4a1c205dc18bc489e272365fa024b9b193cf451b4b9c4515952a2"
     },
     {
       "path": "user/RotateNpc.txt",
-      "size": 62,
-      "sha256": "1cf7ab466172092d9d1421fb6450ec183d3c1aa8e8ee427ccbab12b5d9d8017f"
+      "size": 56,
+      "sha256": "7ae9d5969639be27097efab419844d200e7132a56ac08045360a6c5296df5691"
     },
     {
       "path": "user/bookmark.cfg",
@@ -113704,8 +113704,8 @@
     },
     {
       "path": "user/system.ini",
-      "size": 831,
-      "sha256": "f475333a02edbb402823ed1528cafca07cde5bac643658b04cc427b9bb6f8974"
+      "size": 776,
+      "sha256": "59c886ca558efe02e50dabbdcf98a59dc67afee5f1ab28573d88d09b559d3322"
     },
     {
       "path": "user/username.txt",
