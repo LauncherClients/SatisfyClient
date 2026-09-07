@@ -3,7 +3,7 @@
     "name": "Satisfy Launcher",
     "author": "mothannakh",
     "logo": "textures/brand-logo.png",
-    "version": "1.0.4",
+    "version": "1.0.8",
     "url": {
       "windows": "https://raw.githubusercontent.com/LauncherClients/SatisfyClient/main/launcher/windows/SatisfyLauncher.exe"
     },
@@ -32,6 +32,9 @@
         "owner": "LauncherClients",
         "repo": "SatisfyClient",
         "ref": "main"
+      },
+      "installPack": {
+        "asset": "satisfy-windows.zip"
       },
       "manifest": "manifest.json",
       "start": {

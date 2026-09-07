@@ -28,6 +28,8 @@
   "filesNeedDownload": "{0} file(s) need download ({1})",
   "installingClient": "Installing client: {0} file(s) ({1})",
   "installing": "Installing client...",
+  "downloadingPack": "Downloading client pack...",
+  "extractingPack": "Extracting client pack...",
   "updatingLauncher": "Updating launcher to {0}",
   "launcherUpdate": "Launcher update available: {0}",
   "noGameSelected": "No game selected",

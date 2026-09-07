@@ -28,6 +28,8 @@
   "filesNeedDownload": "{0} arquivo(s) pendentes ({1})",
   "installingClient": "Instalando cliente: {0} arquivo(s) ({1})",
   "installing": "Instalando cliente...",
+  "downloadingPack": "Baixando pacote do cliente...",
+  "extractingPack": "Extraindo pacote do cliente...",
   "updatingLauncher": "Atualizando launcher para {0}",
   "launcherUpdate": "Atualização do launcher: {0}",
   "noGameSelected": "Nenhum jogo selecionado",
