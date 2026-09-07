@@ -39,11 +39,14 @@ SKIP_FILES = {
     ".gitignore",
     ".gitlab-ci.yml",
     "generate_manifest.py",
+    "README.txt",
+    "ClientPatcherPublish.exe",
+    ".gitkeep",
 }
 
 
 def should_skip_file(name: str) -> bool:
-    return name in SKIP_FILES or name.endswith(".part")
+    return name in SKIP_FILES or name.endswith(".part") or name.endswith(".rc.in")
 
 
 def default_version() -> str:

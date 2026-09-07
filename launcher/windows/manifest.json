@@ -9,18 +9,13 @@
     },
     {
       "path": "SatisfyLauncher.exe",
-      "size": 3948032,
-      "sha256": "a0a0a1c8a7bde3898ca641d7db30d6951f81e4631ba6b0472e976f285cc8f0d3"
+      "size": 3949568,
+      "sha256": "aeddfe111e596ba42b1a27ec2e8a8235134881321073ecfa09ffc89e83baeb3f"
     },
     {
       "path": "assets/app-icon.ico",
       "size": 201225,
       "sha256": "987cf26a48d4606a935482613a74acb4965e6ab78c164cbceb00df3739aa2d3a"
-    },
-    {
-      "path": "assets/app-icon.rc.in",
-      "size": 44,
-      "sha256": "fe2a716ed4cfb69307a2be87c95d6255b0047cc12f22da045a69a294af99a20f"
     },
     {
       "path": "assets/documents/patcher.rml",
@@ -31,11 +26,6 @@
       "path": "assets/documents/publish.rml",
       "size": 1532,
       "sha256": "7502ee40ebaa25f4347114687f37a45799ee0ac88f859618fcd73bd1c0b169e5"
-    },
-    {
-      "path": "assets/fonts/.gitkeep",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "assets/fonts/LICENSE-Roboto.txt",
@@ -79,8 +69,8 @@
     },
     {
       "path": "assets/styles/patcher.rcss",
-      "size": 6051,
-      "sha256": "138b0c35c6890b7e96a26408ea61a12e485ecfb34deef8f4eeefe4fe26d5457f"
+      "size": 6074,
+      "sha256": "ec1f86c815ffe0e3585a99c37fe8ccc498df1305d83bf5e767c985b7b620982b"
     },
     {
       "path": "assets/styles/publish.rcss",
@@ -91,11 +81,6 @@
       "path": "assets/styles/rml.rcss",
       "size": 860,
       "sha256": "cd6a4dd290f79b14ad53142cab59c20ce45b8175b05a79435b017230869b806b"
-    },
-    {
-      "path": "assets/textures/.gitkeep",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "assets/textures/app-icon.png",

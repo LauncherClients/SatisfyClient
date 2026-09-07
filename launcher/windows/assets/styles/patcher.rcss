@@ -396,6 +396,7 @@ button {
 	margin-top: 8dp;
 	width: 210dp;
 	color: #888888;
-	font-size: 11dp;
+	font-size: 10dp;
+	line-height: 1.35em;
 	text-align: center;
 }

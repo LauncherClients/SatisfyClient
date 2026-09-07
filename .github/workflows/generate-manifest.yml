@@ -1,3 +1,8 @@
+# Generate manifest.json after each content push.
+# Commits only when the hashed file differs. A matching manual manifest is left alone.
+# A push that only changes manifest.json is ignored (no loop).
+# GitHub: Settings → Actions → General → Workflow permissions = Read and write.
+# Leave "create and approve pull requests" off.
 name: Generate manifest
 
 on:
