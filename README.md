@@ -59,6 +59,18 @@ https://github.com/LauncherClients/SatisfyClient/releases/latest/download/satisf
 
 You do not need to edit `channel.json` for every new release tag.
 
+To serve the first-install zip from an HTTP bucket instead (S3, R2, nginx, or any HTTPS file), set `url`. That value is used as-is and is not replaced by a GitHub Release lookup:
+
+```json
+"installPack": {
+  "url": "https://cdn.example.com/satisfy/satisfy-windows.zip",
+  "sha256": "optional-lowercase-hex",
+  "size": 1095295061
+}
+```
+
+Per-file updates can still come from this repository. `sha256` and `size` are recommended on a bucket pack so the launcher can resume and reuse the cached zip.
+
 ## Publish a client Release
 
 Build a zip of the game tree (exclude `.git`, `.github`, `launcher/`, logs, and the channel/manifest files). Then attach it as `satisfy-windows.zip` on a GitHub Release:

@@ -1,6 +1,6 @@
 Satisfy Launcher — Windows player pack
 Satisfy Online · mothannakh · https://satisfy.live
-Version 1.0.10
+Version 1.0.11
 
 This folder is overwritten on every ClientPatcher Release build.
 
