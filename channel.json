@@ -1,7 +1,9 @@
 {
   "launcher": {
     "name": "Satisfy Launcher",
-    "version": "1.0.0",
+    "author": "mothannakh",
+    "logo": "textures/brand-logo.png",
+    "version": "1.0.1",
     "url": {
       "windows": "https://raw.githubusercontent.com/LauncherClients/SatisfyClient/main/launcher/windows/SatisfyLauncher.exe"
     },
@@ -18,6 +20,8 @@
     {
       "id": "satisfy",
       "name": "Satisfy",
+      "icon": "textures/brand-logo.png",
+      "background": "textures/bg-stfy.jpg",
       "website": "https://www.satisfy.live",
       "discord": "https://www.satisfy.live/discord",
       "register": "https://satisfy.live/account",

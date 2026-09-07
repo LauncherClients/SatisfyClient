@@ -1,0 +1,7 @@
+isenable= 1
+Distance= 600
+[Ignored NPCS]
+733
+867
+887
+882

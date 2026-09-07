@@ -1,0 +1,42 @@
+name: Generate manifest
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - manifest.json
+      - launcher/windows/manifest.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Hash game tree
+        run: python scripts/generate_manifest.py --root . --out manifest.json
+
+      - name: Hash launcher pack
+        run: python scripts/generate_manifest.py --root launcher/windows --out launcher/windows/manifest.json
+
+      - name: Commit manifests if they changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json launcher/windows/manifest.json
+          if git diff --cached --quiet; then
+            echo "manifests are already up to date"
+            exit 0
+          fi
+          git commit -m "Update manifest.json"
+          git push

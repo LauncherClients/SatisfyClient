@@ -1,7 +1,6 @@
 /log/
 /logs/
 /dumps/
-/user/
 /cache/
 /games/
 lua_err.txt
@@ -10,3 +9,4 @@ lua_err.txt
 install-state.json
 launcher.log
 .DS_Store
+login_accounts.lst

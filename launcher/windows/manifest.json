@@ -1,146 +1,131 @@
 {
+  "format": 1,
+  "version": "1.0.1",
   "files": [
     {
       "path": "SDL2.dll",
-      "sha256": "ee2a49a5b731b6a8d955ab3bc4e7c86af57006aadc72f5362916e26ae3bb7b44",
-      "size": 1575424
+      "size": 1575424,
+      "sha256": "ee2a49a5b731b6a8d955ab3bc4e7c86af57006aadc72f5362916e26ae3bb7b44"
     },
     {
       "path": "SatisfyLauncher.exe",
-      "sha256": "6bcc4e865ea3fae5c7d528e51e7c71ada4de51e6f89cbf417833b458d1a81194",
-      "size": 3917824
+      "size": 3948032,
+      "sha256": "a0a0a1c8a7bde3898ca641d7db30d6951f81e4631ba6b0472e976f285cc8f0d3"
     },
     {
       "path": "assets/app-icon.ico",
-      "sha256": "987cf26a48d4606a935482613a74acb4965e6ab78c164cbceb00df3739aa2d3a",
-      "size": 201225
+      "size": 201225,
+      "sha256": "987cf26a48d4606a935482613a74acb4965e6ab78c164cbceb00df3739aa2d3a"
     },
     {
       "path": "assets/app-icon.rc.in",
-      "sha256": "fe2a716ed4cfb69307a2be87c95d6255b0047cc12f22da045a69a294af99a20f",
-      "size": 44
+      "size": 44,
+      "sha256": "fe2a716ed4cfb69307a2be87c95d6255b0047cc12f22da045a69a294af99a20f"
     },
     {
       "path": "assets/documents/patcher.rml",
-      "sha256": "a5e632cbee5cbb0ff8c006cd821c354bf05500c60c49f993ea938b544572356d",
-      "size": 3271
+      "size": 3369,
+      "sha256": "379c052f92681b6c82044ad4ad3cd572375f8da956c3ee03fb7488247e2e6d30"
     },
     {
       "path": "assets/documents/publish.rml",
-      "sha256": "9f8e10dc340db2212cccb953a97032dfba563b32e0fdcd6c831067358aa76eac",
-      "size": 1032
+      "size": 1532,
+      "sha256": "7502ee40ebaa25f4347114687f37a45799ee0ac88f859618fcd73bd1c0b169e5"
     },
     {
       "path": "assets/fonts/.gitkeep",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "assets/fonts/LICENSE-Roboto.txt",
-      "sha256": "cf23339f778339457cff9621833150048f3d890d6e8a74b24ed669b3de301449",
-      "size": 144
+      "size": 144,
+      "sha256": "cf23339f778339457cff9621833150048f3d890d6e8a74b24ed669b3de301449"
     },
     {
       "path": "assets/fonts/LatoLatin-Bold.ttf",
-      "sha256": "74dc638cf436cce77a0217a2a55ce7906a4cc9e4c595c6f1dcd9dd858078c1b6",
-      "size": 146156
+      "size": 146156,
+      "sha256": "74dc638cf436cce77a0217a2a55ce7906a4cc9e4c595c6f1dcd9dd858078c1b6"
     },
     {
       "path": "assets/fonts/LatoLatin-Regular.ttf",
-      "sha256": "d785334ac4e7810f571def986bbad41161f68ac385db8813f798bf04d71478e1",
-      "size": 148540
+      "size": 148540,
+      "sha256": "d785334ac4e7810f571def986bbad41161f68ac385db8813f798bf04d71478e1"
     },
     {
       "path": "assets/fonts/Roboto-Bold.ttf",
-      "sha256": "61f89f8db49261c2f6106e8dccc35df7b2f7ed909020db40a3fc905e95f99334",
-      "size": 514260
+      "size": 514260,
+      "sha256": "61f89f8db49261c2f6106e8dccc35df7b2f7ed909020db40a3fc905e95f99334"
     },
     {
       "path": "assets/fonts/Roboto-Regular.ttf",
-      "sha256": "56a45233d29f11b4dfb86d248e921939d115778f87325e7ae8cc108383d6664d",
-      "size": 515100
+      "size": 515100,
+      "sha256": "56a45233d29f11b4dfb86d248e921939d115778f87325e7ae8cc108383d6664d"
     },
     {
       "path": "assets/lang/en.json",
-      "sha256": "8680ab73e8fc9639a37f11ea622bdfa2c5c4e3dd0c6a0d45cc9ef7569f558387",
-      "size": 1142
+      "size": 1275,
+      "sha256": "c11bf4e2edcc836f74123b232708e81e3719f37d2d0fd7dd77c6f347def598b4"
     },
     {
       "path": "assets/lang/es.json",
-      "sha256": "6666c4d121646c3f3b8d54302891c07edbd19bdc08365e330771950fae856fe3",
-      "size": 1198
+      "size": 1352,
+      "sha256": "83f6a82a7942ec75ebec33d59ef00303c490d0e552c3700ee6c0b82a3352c3b0"
     },
     {
       "path": "assets/lang/pt.json",
-      "sha256": "2dce3236630cbf0f2cd926ba3ab3140d478bdffb90fe426c039358bf894853f2",
-      "size": 1181
+      "size": 1333,
+      "sha256": "e3d73103af995703506d5d0e684590c3f6fd4e7cb4e5fec437735cd372d2ed86"
     },
     {
       "path": "assets/styles/patcher.rcss",
-      "sha256": "dd31ea100c1cfb625c1ac773b30980e4a4109c1dbfa110d60a5c981170c1ecb0",
-      "size": 5826
+      "size": 6051,
+      "sha256": "138b0c35c6890b7e96a26408ea61a12e485ecfb34deef8f4eeefe4fe26d5457f"
     },
     {
       "path": "assets/styles/publish.rcss",
-      "sha256": "ae2b68b143ec3cc6ab88ff0b9eee237defddc2f27967ec1314ffc1c367bffcb7",
-      "size": 1988
+      "size": 2330,
+      "sha256": "2041b83d8f8d3a1b114acd6792d3c5f30a8f024e43ff7fc66d5e8be3b5530bed"
     },
     {
       "path": "assets/styles/rml.rcss",
-      "sha256": "cd6a4dd290f79b14ad53142cab59c20ce45b8175b05a79435b017230869b806b",
-      "size": 860
+      "size": 860,
+      "sha256": "cd6a4dd290f79b14ad53142cab59c20ce45b8175b05a79435b017230869b806b"
     },
     {
       "path": "assets/textures/.gitkeep",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "assets/textures/app-icon.png",
-      "sha256": "adcdd5b230246a97bbf5b0a2e1dfe00200824e8e3c3ae1d58bf0b1e5fe4b0124",
-      "size": 32950
+      "size": 32950,
+      "sha256": "adcdd5b230246a97bbf5b0a2e1dfe00200824e8e3c3ae1d58bf0b1e5fe4b0124"
     },
     {
       "path": "assets/textures/bg-stfy.jpg",
-      "sha256": "9d223e059e9d073f445b544f3eabe687c5babea370449e481dd3c6a7f7c978aa",
-      "size": 501973
+      "size": 501973,
+      "sha256": "9d223e059e9d073f445b544f3eabe687c5babea370449e481dd3c6a7f7c978aa"
     },
     {
       "path": "assets/textures/brand-logo.png",
-      "sha256": "908dda8361be081afa73185793aab40ba77ae774f2b95d3e541583eaeafc68ec",
-      "size": 112740
+      "size": 112740,
+      "sha256": "908dda8361be081afa73185793aab40ba77ae774f2b95d3e541583eaeafc68ec"
     },
     {
       "path": "assets/textures/icon-discord.png",
-      "sha256": "ef83a72fa62ddd3d770e0297e2ea15f212be4a436bd15d0fada775a1c674e980",
-      "size": 1783
+      "size": 1783,
+      "sha256": "ef83a72fa62ddd3d770e0297e2ea15f212be4a436bd15d0fada775a1c674e980"
     },
     {
       "path": "assets/textures/icon-register.png",
-      "sha256": "f1e08cb5df2a9c81c472d0e2d400bc941f8deedc46b87062f3c275c6324b7fbf",
-      "size": 2481
+      "size": 2481,
+      "sha256": "f1e08cb5df2a9c81c472d0e2d400bc941f8deedc46b87062f3c275c6324b7fbf"
     },
     {
       "path": "assets/textures/icon-website.png",
-      "sha256": "070c04dabe427da94085169beef6ea2911544dae987919e2687efae2a72f53fb",
-      "size": 2668
-    },
-    {
-      "path": "run-linux.sh",
-      "sha256": "450619680a5b03939651ae0dfbd6f998b40ef1871e6b899ca9d4363088cefcc6",
-      "size": 273
-    },
-    {
-      "path": "run-macos.sh",
-      "sha256": "450619680a5b03939651ae0dfbd6f998b40ef1871e6b899ca9d4363088cefcc6",
-      "size": 273
-    },
-    {
-      "path": "run-windows.bat",
-      "sha256": "dcd9583010eb4083caf97b8a1dc4183fb517e3af8f54eb6c6e254b485c6c67fb",
-      "size": 268
+      "size": 2668,
+      "sha256": "070c04dabe427da94085169beef6ea2911544dae987919e2687efae2a72f53fb"
     }
-  ],
-  "format": 1,
-  "version": "1.0.0"
+  ]
 }

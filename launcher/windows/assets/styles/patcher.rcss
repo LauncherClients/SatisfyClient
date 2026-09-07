@@ -126,6 +126,7 @@ button {
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-end;
+	z-index: 3;
 }
 
 #time-label {
@@ -151,10 +152,18 @@ button {
 	padding: 8dp 12dp;
 }
 
-#news-section {
+#news-wrap {
 	position: absolute;
-	top: 20dp;
-	left: 30dp;
+	top: 72dp;
+	left: 0dp;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	z-index: 3;
+}
+
+#news-section {
 	width: 644dp;
 	max-height: 353dp;
 	background-color: #2222224d;
@@ -201,23 +210,28 @@ button {
 }
 
 #links {
+	position: absolute;
+	top: 36dp;
+	right: 30dp;
 	display: flex;
 	flex-direction: row;
-	margin-left: auto;
+	justify-content: flex-end;
+	z-index: 3;
 }
 
 .link-btn {
 	display: inline-block;
-	width: 28dp;
-	height: 28dp;
-	padding: 4dp;
-	margin-left: 8dp;
-	background-color: transparent;
+	box-sizing: border-box;
+	width: 44dp;
+	height: 44dp;
+	padding: 6dp;
+	margin-left: 10dp;
+	background-color: #00000066;
 }
 
 .link-icon {
-	width: 18dp;
-	height: 18dp;
+	width: 32dp;
+	height: 32dp;
 }
 
 .news-card {

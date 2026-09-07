@@ -17,46 +17,49 @@
 		</div>
 
 		<div id="stage">
-			<img id="stage-bg" src="../textures/bg-stfy.jpg"/>
+			<img id="stage-bg" data-attr-src="background"/>
 			<div id="stage-ui">
 				<div id="stage-top">
 					<p id="time-label">{{ time_label }}</p>
 					<p id="server-time">{{ server_time }}</p>
 				</div>
+				<div id="links">
+					<button id="btn-website" class="link-btn" data-if="has_website">
+						<img src="../textures/icon-website.png" class="link-icon"/>
+					</button>
+					<button id="btn-discord" class="link-btn" data-if="has_discord">
+						<img src="../textures/icon-discord.png" class="link-icon"/>
+					</button>
+					<button id="btn-register" class="link-btn" data-if="has_register">
+						<img src="../textures/icon-register.png" class="link-icon"/>
+					</button>
+				</div>
 
 				<div id="banner" data-if="has_banner">{{ launcher_banner }}</div>
 
-				<div id="news-section" data-if="has_news">
-					<div id="news-header">
-						<p class="section-title">{{ ui_news }}</p>
-						<div id="lang-switch">
-							<button id="btn-lang-en" class="lang-btn" data-class-active="lang_en">EN</button>
-							<button id="btn-lang-es" class="lang-btn" data-class-active="lang_es">ES</button>
-							<button id="btn-lang-pt" class="lang-btn" data-class-active="lang_pt">PT</button>
-						</div>
-						<div id="links">
-							<button id="btn-website" class="link-btn" data-if="has_website">
-								<img src="../textures/icon-website.png" class="link-icon"/>
-							</button>
-							<button id="btn-discord" class="link-btn" data-if="has_discord">
-								<img src="../textures/icon-discord.png" class="link-icon"/>
-							</button>
-							<button id="btn-register" class="link-btn" data-if="has_register">
-								<img src="../textures/icon-register.png" class="link-icon"/>
-							</button>
-						</div>
-					</div>
-					<div id="news-list" data-for="item : news">
-						<div class="news-card">
-							<p class="news-title">{{ item.title }}</p>
-							<p class="news-body">{{ item.body }}</p>
-							<div class="news-meta">
-								<button class="read-more" data-if="item.has_link" data-attr-link="item.link">{{ ui_read_more }}</button>
-								<p class="news-date" data-if="item.has_date">{{ item.posted }}</p>
+				<div id="news-wrap" data-if="has_news_panel">
+					<div id="news-section">
+						<div id="news-header">
+							<p class="section-title">{{ ui_news }}</p>
+							<div id="lang-switch">
+								<button id="btn-lang-en" class="lang-btn" data-class-active="lang_en">EN</button>
+								<button id="btn-lang-es" class="lang-btn" data-class-active="lang_es">ES</button>
+								<button id="btn-lang-pt" class="lang-btn" data-class-active="lang_pt">PT</button>
 							</div>
 						</div>
+						<div id="news-html" data-if="has_news_html"></div>
+						<div id="news-list" data-for="item : news">
+							<div class="news-card">
+								<p class="news-title">{{ item.title }}</p>
+								<p class="news-body">{{ item.body }}</p>
+								<div class="news-meta">
+									<button class="read-more" data-if="item.has_link" data-attr-link="item.link">{{ ui_read_more }}</button>
+									<p class="news-date" data-if="item.has_date">{{ item.posted }}</p>
+								</div>
+							</div>
+						</div>
+						<button id="btn-show-more" class="toggle-news" data-if="has_more_news">{{ ui_show_more }}</button>
 					</div>
-					<button id="btn-show-more" class="toggle-news" data-if="has_more_news">{{ ui_show_more }}</button>
 				</div>
 
 				<div id="footer">
