@@ -19,13 +19,13 @@
     },
     {
       "path": "assets/documents/patcher.rml",
-      "size": 3702,
-      "sha256": "5df640c0e0aeaadf8f4a8d246dc21312686bbdf554f233f5eab9b5d8bde8abc2"
+      "size": 3611,
+      "sha256": "78092175b1238c3cbc88f957b39fb19ff8b3bba8c9d64d5800a97285416453ce"
     },
     {
       "path": "assets/fonts/LICENSE-Roboto.txt",
-      "size": 144,
-      "sha256": "cf23339f778339457cff9621833150048f3d890d6e8a74b24ed669b3de301449"
+      "size": 141,
+      "sha256": "767ce40cd883b078ccddf06d4f5116e82ac0b0467cd5680c63166f77333d31ad"
     },
     {
       "path": "assets/fonts/LatoLatin-Bold.ttf",
@@ -49,28 +49,28 @@
     },
     {
       "path": "assets/lang/en.json",
-      "size": 1449,
-      "sha256": "22c27ce74c620877fe7779780054f7e06f9414fb4db1e7569e0e33daadaec362"
+      "size": 1408,
+      "sha256": "1f10a49bd053d982918c8502c06685181c5e61f17a3cb5d762a1a7c7f9020c8b"
     },
     {
       "path": "assets/lang/es.json",
-      "size": 1546,
-      "sha256": "2ec33d8f684c2b588f08d3cced15e2d2b62a76760991cf7499eb3eac180694b8"
+      "size": 1505,
+      "sha256": "304e247562ae3824b2f9d2a8a6806576ad8315bf2b5ff752a3a8b0f00aa00e11"
     },
     {
       "path": "assets/lang/pt.json",
-      "size": 1519,
-      "sha256": "c25b8c41ada8bd9b8e61b08949d9517b80cfc9fccffa31d7f4ba6bf7c1e64d2c"
+      "size": 1478,
+      "sha256": "bbfbe2df3c1a8bb001ba4f8dbf6198e98f99b7bee180600ab2b803589cd06f65"
     },
     {
       "path": "assets/styles/patcher.rcss",
-      "size": 7160,
-      "sha256": "0334007d20634a2249653d524e06637bdd8a7a108a5d0b65a85978d16ac52ea6"
+      "size": 6694,
+      "sha256": "81496909142f22c4b0bb3ada6026efe140021d913abbc701902e8893a130cfa7"
     },
     {
       "path": "assets/styles/rml.rcss",
-      "size": 860,
-      "sha256": "cd6a4dd290f79b14ad53142cab59c20ce45b8175b05a79435b017230869b806b"
+      "size": 780,
+      "sha256": "69d8f9a3d58d0940627ee28ec6d6cf9a9efc87387628ec924f23202a3245cc25"
     },
     {
       "path": "assets/textures/app-icon.png",
