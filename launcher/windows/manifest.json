@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "1.0.8",
+  "version": "2026.09.07",
   "files": [
     {
       "path": "SDL2.dll",
@@ -19,13 +19,13 @@
     },
     {
       "path": "assets/documents/patcher.rml",
-      "size": 3405,
-      "sha256": "264041f7adcff6ab4909fd62fda37c5d848bb1187143ef64363f87949a3ffdba"
+      "size": 3318,
+      "sha256": "0f097c4f8a7dfade347fab754087be8f297b779ee02c88f9a723df82282e4b15"
     },
     {
       "path": "assets/fonts/LICENSE-Roboto.txt",
-      "size": 144,
-      "sha256": "cf23339f778339457cff9621833150048f3d890d6e8a74b24ed669b3de301449"
+      "size": 141,
+      "sha256": "767ce40cd883b078ccddf06d4f5116e82ac0b0467cd5680c63166f77333d31ad"
     },
     {
       "path": "assets/fonts/LatoLatin-Bold.ttf",
@@ -49,28 +49,28 @@
     },
     {
       "path": "assets/lang/en.json",
-      "size": 1374,
-      "sha256": "c2a610e6fc3a09b8c7880b95db401279a2854dde8ef705fee4f3199fec5aa9b5"
+      "size": 1335,
+      "sha256": "019acf84c46881795d608565dd1842015839307f291d91de22494e6cfbd26a21"
     },
     {
       "path": "assets/lang/es.json",
-      "size": 1467,
-      "sha256": "1db34e810712ea48585fc306e189c412eb22f9030602e8d5bb6193de19295c30"
+      "size": 1428,
+      "sha256": "4ef21d1546037e84023979d33ed378f06dd1870d46aabfab99e124d01ffe4569"
     },
     {
       "path": "assets/lang/pt.json",
-      "size": 1440,
-      "sha256": "198800a6f72223a19345316705aad31e3089eef8deb2ea899621a06e0b096c7b"
+      "size": 1401,
+      "sha256": "564ca9abea919bf21682a4d3338888b0369cca96bace2dc6c93df42cf3820c49"
     },
     {
       "path": "assets/styles/patcher.rcss",
-      "size": 6625,
-      "sha256": "2ad36850f2438dfd6841b60df96f83b8c44c11322392223ab80f0d23172cc846"
+      "size": 6192,
+      "sha256": "2a2d6d74312d501cf18526420e947cf9d28c3add799f1d94db7813103a37547e"
     },
     {
       "path": "assets/styles/rml.rcss",
-      "size": 860,
-      "sha256": "cd6a4dd290f79b14ad53142cab59c20ce45b8175b05a79435b017230869b806b"
+      "size": 780,
+      "sha256": "69d8f9a3d58d0940627ee28ec6d6cf9a9efc87387628ec924f23202a3245cc25"
     },
     {
       "path": "assets/textures/app-icon.png",
