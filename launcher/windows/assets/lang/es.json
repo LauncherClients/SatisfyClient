@@ -10,6 +10,8 @@
   "updating": "Actualizando...",
   "filesNeedUpdate": "{0} actualizacion(es) disponible(s) ({1})",
   "Play": "Jugar",
+  "closeAfterStart": "Cerrar al iniciar",
+  "keepLauncher": "Dejar abierto",
   "repair": "Reparar",
   "readMore": "Leer Más",
   "showMore": "Mostrar Más",

@@ -75,6 +75,10 @@
 						</div>
 					</div>
 					<div id="actions">
+						<div id="launch-opt">
+							<button id="btn-close-after-start" class="opt-btn" data-class-active="close_after_start">{{ ui_close_after_start }}</button>
+							<button id="btn-keep-launcher" class="opt-btn" data-class-active="keep_launcher">{{ ui_keep_launcher }}</button>
+						</div>
 						<button id="btn-primary" class="btn-play" data-class-disabled="primary_disabled">{{ ui_primary }}</button>
 						<button id="btn-repair" class="btn-repair" data-if="can_repair" data-class-disabled="busy">{{ ui_repair }}</button>
 						<p id="copyright">{{ ui_copyright }}</p>

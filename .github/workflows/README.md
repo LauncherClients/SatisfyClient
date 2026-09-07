@@ -1,20 +1,21 @@
 # Generate `manifest.json` on push
 
-Hashes the game tree and `launcher/windows`, then commits those manifests **only if they changed**.
+Hashes the game tree and `launcher/windows`, then commits those manifests only if they changed.
 
-Players never run this. `.github/` and this script are not downloaded into `games/satisfy/`.
+Players never run this workflow. `.github/` and the hasher script are not downloaded into `games/satisfy/`.
 
-## GitHub settings
+## Repository settings
 
-Settings → Actions → General → Workflow permissions:
+**Settings → Actions → General → Workflow permissions**
 
-- **Read and write permissions** — on.
-- **Allow GitHub Actions to create and approve pull requests** — off (not needed).
+- **Read and write permissions** — on
+- **Allow GitHub Actions to create and approve pull requests** — off
 
-## Manual manifest
+If `main` is protected, allow GitHub Actions to push or the job will hash but fail to commit.
 
-- Push **only** `manifest.json` → this workflow does **not** run (`paths-ignore`).
-- Push game/launcher files and your hashes **already match** → job runs, **no new commit**.
-- Push game/launcher files and your hashes are **wrong** → job **rewrites** the manifest and pushes.
+## Manual manifests
 
-See `Tools/ClientPatcher/README.md` in the Phoenix repo for the full table.
+- Push only `manifest.json` → the workflow does not run
+- Push game or launcher files whose hashes already match → the job runs and makes no commit
+- Push game or launcher files with stale hashes → the job rewrites the matching manifest and pushes
+- **Run workflow** always hashes and commits only when something changed

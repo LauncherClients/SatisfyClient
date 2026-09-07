@@ -3,7 +3,7 @@
     "name": "Satisfy Launcher",
     "author": "mothannakh",
     "logo": "textures/brand-logo.png",
-    "version": "1.0.8",
+    "version": "1.0.10",
     "url": {
       "windows": "https://raw.githubusercontent.com/LauncherClients/SatisfyClient/main/launcher/windows/SatisfyLauncher.exe"
     },

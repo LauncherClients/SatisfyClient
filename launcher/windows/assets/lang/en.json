@@ -10,6 +10,8 @@
   "updating": "Updating...",
   "filesNeedUpdate": "{0} update(s) available ({1})",
   "Play": "Play",
+  "closeAfterStart": "Close after start",
+  "keepLauncher": "Keep open",
   "repair": "Repair Client",
   "readMore": "Read More",
   "showMore": "Show More",

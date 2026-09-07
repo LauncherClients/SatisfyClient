@@ -314,7 +314,7 @@ button {
 	left: 0dp;
 	bottom: 0dp;
 	width: 100%;
-	height: 140dp;
+	height: 172dp;
 }
 
 #status-block {
@@ -373,6 +373,39 @@ button {
 	display: flex;
 	flex-direction: column;
 	align-items: flex-end;
+}
+
+#launch-opt {
+	display: block;
+	width: 210dp;
+	margin-bottom: 8dp;
+}
+
+.opt-btn {
+	display: inline-block;
+	box-sizing: border-box;
+	width: 102dp;
+	height: 24dp;
+	font-family: Roboto;
+	font-size: 10dp;
+	font-weight: bold;
+	background-color: #1b2430;
+	border-width: 1dp;
+	border-color: #3c4a5e;
+	color: #d0d6e0;
+	padding: 4dp 0;
+	margin: 0 6dp 0 0;
+	text-align: center;
+}
+
+.opt-btn.active {
+	background-color: #f2af0d;
+	border-color: #f2af0d;
+	color: #000000;
+}
+
+#btn-keep-launcher {
+	margin-right: 0;
 }
 
 .btn-play {

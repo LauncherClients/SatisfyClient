@@ -32,7 +32,9 @@ jobs:
         run: python scripts/generate_manifest.py --root . --out manifest.json
 
       - name: Hash launcher pack
-        run: python scripts/generate_manifest.py --root launcher/windows --out launcher/windows/manifest.json
+        run: |
+          VERSION=$(python -c "import json; print(json.load(open('channel.json', encoding='utf-8'))['launcher']['version'])")
+          python scripts/generate_manifest.py --root launcher/windows --out launcher/windows/manifest.json --version "$VERSION"
 
       - name: Commit manifests if they changed
         run: |

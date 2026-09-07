@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "2026.09.07",
+  "version": "1.0.10",
   "files": [
     {
       "path": "SDL2.dll",
@@ -9,8 +9,8 @@
     },
     {
       "path": "SatisfyLauncher.exe",
-      "size": 4026368,
-      "sha256": "957b983bb0627a638295ccc2921b7cc1a0895e9b1775c64b1640fbf70e936d83"
+      "size": 4034560,
+      "sha256": "e79e65f1b40ad80907787284b3c0f93def8a814c2de4bb317d103c6153a764d0"
     },
     {
       "path": "assets/app-icon.ico",
@@ -19,13 +19,13 @@
     },
     {
       "path": "assets/documents/patcher.rml",
-      "size": 3318,
-      "sha256": "0f097c4f8a7dfade347fab754087be8f297b779ee02c88f9a723df82282e4b15"
+      "size": 3702,
+      "sha256": "5df640c0e0aeaadf8f4a8d246dc21312686bbdf554f233f5eab9b5d8bde8abc2"
     },
     {
       "path": "assets/fonts/LICENSE-Roboto.txt",
-      "size": 141,
-      "sha256": "767ce40cd883b078ccddf06d4f5116e82ac0b0467cd5680c63166f77333d31ad"
+      "size": 144,
+      "sha256": "cf23339f778339457cff9621833150048f3d890d6e8a74b24ed669b3de301449"
     },
     {
       "path": "assets/fonts/LatoLatin-Bold.ttf",
@@ -49,28 +49,28 @@
     },
     {
       "path": "assets/lang/en.json",
-      "size": 1335,
-      "sha256": "019acf84c46881795d608565dd1842015839307f291d91de22494e6cfbd26a21"
+      "size": 1449,
+      "sha256": "22c27ce74c620877fe7779780054f7e06f9414fb4db1e7569e0e33daadaec362"
     },
     {
       "path": "assets/lang/es.json",
-      "size": 1428,
-      "sha256": "4ef21d1546037e84023979d33ed378f06dd1870d46aabfab99e124d01ffe4569"
+      "size": 1546,
+      "sha256": "2ec33d8f684c2b588f08d3cced15e2d2b62a76760991cf7499eb3eac180694b8"
     },
     {
       "path": "assets/lang/pt.json",
-      "size": 1401,
-      "sha256": "564ca9abea919bf21682a4d3338888b0369cca96bace2dc6c93df42cf3820c49"
+      "size": 1519,
+      "sha256": "c25b8c41ada8bd9b8e61b08949d9517b80cfc9fccffa31d7f4ba6bf7c1e64d2c"
     },
     {
       "path": "assets/styles/patcher.rcss",
-      "size": 6192,
-      "sha256": "2a2d6d74312d501cf18526420e947cf9d28c3add799f1d94db7813103a37547e"
+      "size": 7160,
+      "sha256": "0334007d20634a2249653d524e06637bdd8a7a108a5d0b65a85978d16ac52ea6"
     },
     {
       "path": "assets/styles/rml.rcss",
-      "size": 780,
-      "sha256": "69d8f9a3d58d0940627ee28ec6d6cf9a9efc87387628ec924f23202a3245cc25"
+      "size": 860,
+      "sha256": "cd6a4dd290f79b14ad53142cab59c20ce45b8175b05a79435b017230869b806b"
     },
     {
       "path": "assets/textures/app-icon.png",
