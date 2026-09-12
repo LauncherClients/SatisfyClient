@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "2026.09.07",
+  "version": "2026.09.12",
   "files": [
     {
       "path": "animation/0000.lab",
@@ -52984,8 +52984,8 @@
     },
     {
       "path": "sconfig/translations/translations.json",
-      "size": 276240,
-      "sha256": "5130cd968e7b5078d85001529cae2bec74515e5414457cec0ceab59f7d0f35f3"
+      "size": 753371,
+      "sha256": "30799ba7b0ccce372e06fe398e7c2098f689148788062ee00ad1b5221f1d0ad1"
     },
     {
       "path": "scripts/kop.cfg",
