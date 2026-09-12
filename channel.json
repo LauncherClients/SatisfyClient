@@ -44,7 +44,8 @@
       },
       "startArgs": [
         "startgame",
-        "ip:game.satisfy.live"
+        "ip:game.satisfy.live",
+        "port:2019"
       ],
       "news": [
         {
